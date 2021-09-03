@@ -6,4 +6,6 @@ Basic Machine Learning Project of AI CLUB
   
 OUTLINE:
   1. Gradient Descent
+  2. K-means clustering
+  3. K-Nearest Neighbors
 
