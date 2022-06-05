@@ -1,4 +1,4 @@
-# Basic_MachineLearing
+# Basic for Machine Learning
 
 Basic Machine Learning Project of AI CLUB
 
